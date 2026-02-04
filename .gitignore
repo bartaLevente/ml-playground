@@ -215,3 +215,6 @@ __pycache__/
 *.pyc
 .venv/
 .env
+
+
+*.csv
